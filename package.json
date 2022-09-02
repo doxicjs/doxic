@@ -1,9 +1,5 @@
 {
   "name": "doxic",
   "version": "0.0.1",
-  "author": "jskhan",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "repository": "git@github.com:doxicjs/doxic.git"
+  "author": "jskhan"
 }
