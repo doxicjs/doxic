@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "jskhan",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@jskhan:registry": "https://npm.pkg.github.com/"
   },
   "repository": "git@github.com:doxicjs/doxic.git"
 }
